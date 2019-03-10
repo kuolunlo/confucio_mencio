@@ -3,7 +3,6 @@
 ## 第一章 Primer Capítulo
 
 大學之道，在明明德，在親民，在止於至善。
-
 El Tao del Gran Estudio está en comprender la virtud iluminada, está en acercarse al pueblo, está en detenerse en la suprema bondad.
 
 知止而后有定，定而后能靜，靜而后能安，安而后能慮，慮而后能得。
