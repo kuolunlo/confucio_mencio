@@ -10,3 +10,5 @@ Al saber detenerse habrá la fijación. Después de la fijación podrá calmarse
 
 物有本末，事有終始，知所先後，則近道矣。
 Los objetos tienen origen y fin, el asunto tiene término e inicio. Al saber lo primordial y lo secundario, se acercará a Tao.
+
+testing
