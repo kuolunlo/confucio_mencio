@@ -1,1 +1,5 @@
 site_name: 四書 Los cuatro libros de Confucio y Mencio
+
+pages:
+  - Home: docs/index.md
+  - 大學 Gran Estudio: docs/granEstudio.md
